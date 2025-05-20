@@ -31,12 +31,6 @@ A clean and interactive countdown timer web application built using React. Users
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here if needed for visuals)*
-
----
-
 ## 👨‍💻 Developed by
 
 **Arfath Ahmed**  
