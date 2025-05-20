@@ -1,0 +1,113 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.form-container
+{
+  width: 100vw;
+  background-image: linear-gradient(to right, red , blue);
+  position: absolute;
+  top: 0;
+  padding-top: 50px;
+  height: 45%;
+}
+
+.form {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-right: 5px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.timers {
+  margin-top: 100px;
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.timer-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 2px 2px 10px #eee;
+}
+
+.countdown {
+  font-size: 1.2rem;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.timer-text{
+  text-align: center;
+}
+
+.delete-button, .stop-alarm-button {
+  padding: 6px 12px;
+  margin-left: 8px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: white;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+}
+
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.stop-alarm-button {
+  background-color: #3498db;
+  font-size: 10px;
+}
+
+.stop-alarm-button:hover {
+  background-color: #2980b9;
+}
+
+.button-row {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.button-row.two-buttons {
+  justify-content: flex-start;
+}
+
+.button-row.single-button {
+  justify-content: center;
+}
