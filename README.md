@@ -6,7 +6,7 @@ A clean and interactive countdown timer web application built using React. Users
 
 ## 🔗 Project Links
 
-- **🌐 Live Demo**: [Click here to view](https://your-deployed-link.com)
+- **🌐 Live Demo**: [Click here to view](https://682c36c4c0bb0103da77e1f8--counterrtimer.netlify.app/)
 - **📁 GitHub Repository**: [View Source Code](https://github.com/arfath-ahmed/Countdown-Timer)
 
 ---
@@ -41,4 +41,4 @@ A clean and interactive countdown timer web application built using React. Users
 
 **Arfath Ahmed**  
 Software Engineer | Coding Enthusiast | Aviation Geek  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle)
+[LinkedIn](https://www.linkedin.com/in/arfath-ahmed/)
